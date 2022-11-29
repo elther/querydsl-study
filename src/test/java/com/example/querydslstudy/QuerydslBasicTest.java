@@ -1,6 +1,7 @@
 package com.example.querydslstudy;
 
 import com.example.querydslstudy.dto.MemberDto;
+import com.example.querydslstudy.dto.MemberSearchCondition;
 import com.example.querydslstudy.dto.QMemberDto;
 import com.example.querydslstudy.dto.UserDto;
 import com.example.querydslstudy.entity.Member;
